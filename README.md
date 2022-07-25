@@ -12,7 +12,6 @@
 
 <!-- - 🌍 Site Pessoal <a href="https://wendiramos.github.io/" target="_blank">Wendi Ramos</a>-->
 <hr/> 
-<br/>
 <h3 align="center">Habilidades</h3>
 <br/>
 <p align="center">
