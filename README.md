@@ -51,5 +51,5 @@
 </p>
 <hr/>
 <br/>
-<img align="center" height="180em" width="400m" src="https://github-readme-stats.vercel.app/api/top-langs?username=wendiramos&show_icons=true&locale=en&layout=compact&theme=dracula" alt="wendiramos" /> 
-&nbsp;<img align="center" height="180em" width="515em" src="https://github-readme-stats.vercel.app/api?username=wendiramos&show_icons=true&locale=en&hide=issues&theme=dracula" alt="wendiramos" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wendiramos&show_icons=true&locale=en&layout=compact&theme=dracula" alt="wendiramos" /> 
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wendiramos&show_icons=true&locale=en&hide=issues&theme=dracula" alt="wendiramos" />
