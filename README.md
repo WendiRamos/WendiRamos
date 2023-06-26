@@ -2,11 +2,11 @@
 <h3 align="center">Desenvolvedora de Sistemas</h3>
 <br/>
 
-- 📝 Estudante de Análise e Desenvolvimento de Sistemas
+- 📝 Formada em Análise e Desenvolvimento de Sistemas
 
 - 👨‍💻 LinkedIn <a href="https://www.linkedin.com/in/wendi-s-ramos/" target="_blank">Wendi S. Ramos</a>
 
-- 🔭 Atualmente estou aprendendo React e Angular
+- 🔭 Atualmente estou aprendendo Java
 
 - 📫 E-mail para contato <a href = "mailto: wendiramos12@gmail.com">Wendi Ramos</a>
 
