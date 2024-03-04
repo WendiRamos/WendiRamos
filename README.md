@@ -6,7 +6,7 @@
 
 - 👨‍💻 LinkedIn <a href="https://www.linkedin.com/in/wendi-s-ramos/" target="_blank">Wendi S. Ramos</a>
 
-- 🔭 Atualmente estou aprendendo Java
+- 🔭 Atualmente estou aprendendo Python
 
 - 📫 E-mail para contato <a href = "mailto: wendiramos12@gmail.com">Wendi Ramos</a>
 
