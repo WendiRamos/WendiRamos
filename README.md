@@ -6,7 +6,7 @@
 - 💻 Desenvolvimento de aplicações com C# e .NET  
 - 🚀 Aprofundando conhecimentos em APIs e Arquitetura de Software  
 - ☁️ Estudando Cloud (Azure e AWS)  
-- 👨‍💻 LinkedIn <a href="https://www.linkedin.com/in/wendi-s-ramos/" target="_blank">Wendi S. Ramos</a>  
+- 👨‍💻 LinkedIn <a href="https://www.linkedin.com/in/wendiramos/" target="_blank">Wendi S. Ramos</a>  
 - 📫 E-mail para contato <a href="mailto:wendiramos12@gmail.com">wendiramos12@gmail.com</a>
 
 <hr/>
